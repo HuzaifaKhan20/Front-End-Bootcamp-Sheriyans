@@ -71,9 +71,9 @@
 // console.log(arr[1]);
 
 // .push = Used to add value in the end of array 
-// .unshift = Used to add value in the start of array
-// .pop = Used to remove value in the end of array
-// .unshift = Used to remove value in the start of array
+// .shift = Used to add value in the start of array
+// .pop = Used to remove value from the end of array
+// .unshift = Used to remove value from the start of array
 // .splice = Used to remove value in the middle of array
 // arr.push(88);
 // arr.splice(2,1);
